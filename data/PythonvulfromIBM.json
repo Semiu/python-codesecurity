@@ -1,9 +1,3 @@
-//Date = 02/09/2021, 5.37pm
-
-//Request URL = https://api.xforce.ibmcloud.com/vulnerabilities/fulltext?q=Python
-
-//Response = 
-
 {
   "total_rows": 393,
   "bookmark": "g1AAAAMKeJzLYWBg4MhgTmFQS0lKzi9KdUhJMjTRy0zK1a1Iyy9KTjUwMNRLzskvTUnMK9HLSy3JAapnSmRIkv___38WmJMLJESMDAxNdQ1MdQ0tQwwMrMAoKomBwZctC81sc0JmJykAySR7bMab6BoaoBgvpYluvCFB4x1Axsdjd72RIYrxPPtJNz4BZHw9jsCxQDFeox3deCNCxuexAEmGBiAFtGE-hhXGukbGKFborSE5_CFWLIBYsZ-IOLgNtkIVbgWRNhyA2HAfWzihRoOHKLonCCZQiBUPIFZgRIWhga6ROaoVdllZAKAY1ac",
